@@ -70,8 +70,6 @@ python nmap-web.py
 ### 3. 使用命令行子命令
 
 ```bash
-# 仅打印横幅
-python nmap-web.py banner
 
 # 解析当前目录下的 XML → Excel
 python nmap-web.py nmap -o my_ports.xlsx
