@@ -1,6 +1,6 @@
 # 🔒 Security Toolkit
 
-合并工具集，提供 **Nmap XML → Excel 报告解析**、**Excel → Web 探测清单提取**，并带有作者横幅展示功能。
+合并工具集，提供 **Nmap XML → Excel 报告解析**、**Excel → Web 探测清单提取**。
 
 支持交互菜单和命令行两种使用方式。
 
